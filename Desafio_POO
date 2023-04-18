@@ -9,7 +9,7 @@ A-  Criar uma classe Pessoa com os seguintes atributos:
 
 * Nome;
 * Cpf;
-* Metodo;
+* Email;
 
 // Extra:
 Adicionar um contator de pessoas para assim termos controle da qtidade de pessoas cadastradas no Sistema Bancario
