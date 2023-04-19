@@ -32,7 +32,7 @@ Adicionar um contator de pessoas para assim termos controle da qtidade de contas
 
 
 @ Classe AgenciaBancaria
-C- Criar um classe AgenciaBancaria e posterioremente insira os seguintes métodos nessa classe:
+C- Criar uma classe AgenciaBancaria e posterioremente insira os seguintes métodos nessa classe:
 * CriarConta();
 * depositar();
 * sacar();
