@@ -40,7 +40,7 @@ C- Criar uma classe AgenciaBancaria e posterioremente insira os seguintes métod
 * listarContas()
 
 // Extra:
-Adicione um metodo chamado Operacoes() que ebirá um menu listanto todos os métodos implementados na classe AgenciaBancaria e imprimindo as seguinte saidas:
+Adicione um metodo chamado Operacoes() que exibirá um menu listanto todos os métodos implementados na classe AgenciaBancaria e imprimindo as seguinte saidas:
 
 * Bem vindos ao Banco Pan;
 * Selecione uma operação que deseja realizar;
