@@ -12,7 +12,7 @@ A-  Criar uma classe Pessoa com os seguintes atributos:
 * Email;
 
 // Extra:
-Adicionar um contator de pessoas para assim termos controle da qtidade de pessoas cadastradas no Sistema Bancario
+Adicionar um contator de pessoas para assim termos controle da qtidade de clientes cadastrados no Sistema Bancario
 
 
 @ Classe Conta
@@ -40,12 +40,11 @@ C- Criar uma classe AgenciaBancaria e posterioremente insira os seguintes métod
 * listarContas()
 
 // Extra:
-Adicione um metodo chamado Operacoes() listanto todos os métodos implementados na classe AgenciaBancaria e imprimindo as seguinte saidas:
+Adicione um metodo chamado Operacoes() que ebirá um menu listanto todos os métodos implementados na classe AgenciaBancaria e imprimindo as seguinte saidas:
 
 * Bem vindos ao Banco Pan;
 * Selecione uma operação que deseja realizar;
-* Menu:
-         System.out.println ("|  opcao 1 -   Criar conta   |");
+*         System.out.println ("|  opcao 1 -   Criar conta   |");
                   System.out.println("|   Opção 2 - Depositar     |");
                   System.out.println("|   Opção 3 - Sacar         |");
                   System.out.println("|   Opção 4 - Transferir    |");
